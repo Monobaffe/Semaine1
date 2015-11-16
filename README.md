@@ -12,16 +12,16 @@ Et j'ai 29 ans
   
 * Clarisse environnement  
 * Armatis  
-`* Back-office pour *orange* `  
+`* Back-office pour *orange*`  
 * Horticulture  
-`* Maraichage et Floriculture `  
+`* Maraichage et Floriculture`  
 * Hotellerie  
-`* Cuisine semi Gastro `  
+`* Cuisine semi Gastro`  
 
 ##Formations  
 
 * BEP Hotellerie Lycée Jean guéhenno  
-`* section cuisine `  
+`* section cuisine`  
 * BEP Horticulture Lycée Agricole de **Châteauroux**  
 
 ###Formation en cours  
